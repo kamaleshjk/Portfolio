@@ -13,8 +13,25 @@
   margin-left: 100px;
 }
 .skills-padding{
-  padding: 70px 0;
+  padding: 70px 10px;
 }
 .calculator{
   padding: 0px 0px 0px 200px;
+}
+.skills-images{
+  height: 100px;
+  width: 100px;
+  margin-left: 95px;
+}
+.skills-set{
+  padding-bottom: 30px;
+}
+.html-para{
+  padding-bottom: 25px;
+}
+.js-para{
+  padding-bottom: 50px;
+}
+.ps-para{
+  padding-bottom: 25px;
 }
