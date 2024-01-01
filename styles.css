@@ -3,14 +3,19 @@
 }
 .banner{
     background-image: url(/images/background.jpg);
-    padding: 200px;
+    padding-bottom: 300px;
+    padding-top: 200px;
     background-size: cover;
     background-repeat: no-repeat;
 }
 .profile{
   border-radius: 8px;
   box-shadow: 0px 8px 8px 0px rgba(0, 0, 0, 0.25);
-  margin-left: 100px;
+  margin-left: 50px;
+}
+.about{
+  margin-top: 100px;
+  margin-bottom: 100px;
 }
 .skills-padding{
   padding: 70px 10px;
@@ -34,4 +39,7 @@
 }
 .ps-para{
   padding-bottom: 25px;
+}
+.project-padding{
+  padding-bottom: 20px;
 }
